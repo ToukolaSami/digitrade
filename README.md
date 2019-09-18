@@ -1,5 +1,3 @@
 # digitrade
 
-kkkk
-csaaa
-ssss
+Sami Toukola

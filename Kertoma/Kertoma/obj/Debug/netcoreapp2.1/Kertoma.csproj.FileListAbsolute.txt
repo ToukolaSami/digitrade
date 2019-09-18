@@ -1,0 +1,11 @@
+C:\Users\touko\Desktop\Ohjelmointi\dev\digitrade\Kertoma\Kertoma\bin\Debug\netcoreapp2.1\Kertoma.deps.json
+C:\Users\touko\Desktop\Ohjelmointi\dev\digitrade\Kertoma\Kertoma\bin\Debug\netcoreapp2.1\Kertoma.runtimeconfig.json
+C:\Users\touko\Desktop\Ohjelmointi\dev\digitrade\Kertoma\Kertoma\bin\Debug\netcoreapp2.1\Kertoma.runtimeconfig.dev.json
+C:\Users\touko\Desktop\Ohjelmointi\dev\digitrade\Kertoma\Kertoma\bin\Debug\netcoreapp2.1\Kertoma.dll
+C:\Users\touko\Desktop\Ohjelmointi\dev\digitrade\Kertoma\Kertoma\bin\Debug\netcoreapp2.1\Kertoma.pdb
+C:\Users\touko\Desktop\Ohjelmointi\dev\digitrade\Kertoma\Kertoma\obj\Debug\netcoreapp2.1\Kertoma.csprojAssemblyReference.cache
+C:\Users\touko\Desktop\Ohjelmointi\dev\digitrade\Kertoma\Kertoma\obj\Debug\netcoreapp2.1\Kertoma.csproj.CoreCompileInputs.cache
+C:\Users\touko\Desktop\Ohjelmointi\dev\digitrade\Kertoma\Kertoma\obj\Debug\netcoreapp2.1\Kertoma.AssemblyInfoInputs.cache
+C:\Users\touko\Desktop\Ohjelmointi\dev\digitrade\Kertoma\Kertoma\obj\Debug\netcoreapp2.1\Kertoma.AssemblyInfo.cs
+C:\Users\touko\Desktop\Ohjelmointi\dev\digitrade\Kertoma\Kertoma\obj\Debug\netcoreapp2.1\Kertoma.dll
+C:\Users\touko\Desktop\Ohjelmointi\dev\digitrade\Kertoma\Kertoma\obj\Debug\netcoreapp2.1\Kertoma.pdb
