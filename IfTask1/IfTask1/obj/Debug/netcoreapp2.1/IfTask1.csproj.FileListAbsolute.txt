@@ -1,0 +1,11 @@
+C:\Users\touko\Desktop\Ohjelmointi\dev\digitrade\IfTask1\IfTask1\bin\Debug\netcoreapp2.1\IfTask1.deps.json
+C:\Users\touko\Desktop\Ohjelmointi\dev\digitrade\IfTask1\IfTask1\bin\Debug\netcoreapp2.1\IfTask1.runtimeconfig.json
+C:\Users\touko\Desktop\Ohjelmointi\dev\digitrade\IfTask1\IfTask1\bin\Debug\netcoreapp2.1\IfTask1.runtimeconfig.dev.json
+C:\Users\touko\Desktop\Ohjelmointi\dev\digitrade\IfTask1\IfTask1\bin\Debug\netcoreapp2.1\IfTask1.dll
+C:\Users\touko\Desktop\Ohjelmointi\dev\digitrade\IfTask1\IfTask1\bin\Debug\netcoreapp2.1\IfTask1.pdb
+C:\Users\touko\Desktop\Ohjelmointi\dev\digitrade\IfTask1\IfTask1\obj\Debug\netcoreapp2.1\IfTask1.csprojAssemblyReference.cache
+C:\Users\touko\Desktop\Ohjelmointi\dev\digitrade\IfTask1\IfTask1\obj\Debug\netcoreapp2.1\IfTask1.csproj.CoreCompileInputs.cache
+C:\Users\touko\Desktop\Ohjelmointi\dev\digitrade\IfTask1\IfTask1\obj\Debug\netcoreapp2.1\IfTask1.AssemblyInfoInputs.cache
+C:\Users\touko\Desktop\Ohjelmointi\dev\digitrade\IfTask1\IfTask1\obj\Debug\netcoreapp2.1\IfTask1.AssemblyInfo.cs
+C:\Users\touko\Desktop\Ohjelmointi\dev\digitrade\IfTask1\IfTask1\obj\Debug\netcoreapp2.1\IfTask1.dll
+C:\Users\touko\Desktop\Ohjelmointi\dev\digitrade\IfTask1\IfTask1\obj\Debug\netcoreapp2.1\IfTask1.pdb
