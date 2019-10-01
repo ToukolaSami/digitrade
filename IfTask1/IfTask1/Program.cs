@@ -15,13 +15,25 @@ namespace IfTask1
             {
                 Console.WriteLine($"Luku {userNumber} on nolla!");
             }
-            else if (userNumber > 0)
+
+            else if (userNumber > 0 && userNumber % 2 == 0)
             {
-                Console.WriteLine($"Luku {userNumber} on positiivinen!");
+                Console.WriteLine($"Luku {userNumber} on positiivinen ja parillinen!");
             }
-            else
+
+            else if (userNumber < 0 && userNumber % 2 == 0)
             {
-                Console.WriteLine($"Luku {userNumber} on negatiivinen!");
+                Console.WriteLine($"Luku {userNumber} on negatiivinen ja parillinen!");
+            }
+
+            else if (userNumber > 0 && userNumber % 2 == 1)
+            {
+                Console.WriteLine($"Luku {userNumber} on positiivinen ja pariton!");
+            }
+
+            else if (userNumber < 0 && userNumber % 2 == -1)
+            {
+                Console.WriteLine($"Luku {userNumber} on negatiivinen ja pariton!");
             }
         }
     }

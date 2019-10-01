@@ -8,3 +8,4 @@ C:\Users\touko\Desktop\Ohjelmointi\dev\digitrade\IfTask1\IfTask2\obj\Debug\netco
 C:\Users\touko\Desktop\Ohjelmointi\dev\digitrade\IfTask1\IfTask2\obj\Debug\netcoreapp2.1\IfTask2.AssemblyInfo.cs
 C:\Users\touko\Desktop\Ohjelmointi\dev\digitrade\IfTask1\IfTask2\obj\Debug\netcoreapp2.1\IfTask2.dll
 C:\Users\touko\Desktop\Ohjelmointi\dev\digitrade\IfTask1\IfTask2\obj\Debug\netcoreapp2.1\IfTask2.pdb
+C:\Users\touko\Desktop\Ohjelmointi\dev\digitrade\IfTask1\IfTask2\obj\Debug\netcoreapp2.1\IfTask2.csprojAssemblyReference.cache
